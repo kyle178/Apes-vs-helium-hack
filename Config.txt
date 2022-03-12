@@ -1,0 +1,3 @@
+startingweapon=Sun Avatar
+startingcash=1
+godmode=False
